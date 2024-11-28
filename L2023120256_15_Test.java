@@ -1,7 +1,7 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-public class SolutionTest15 {
+public class L2023120256_15_Test {
 
     private Solution15 solution = new Solution15();
 
